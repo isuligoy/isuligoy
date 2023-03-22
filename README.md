@@ -22,6 +22,8 @@
 
 Ambos proyectos fueron desarrollados con el objetivo de adquirir aprendizaje, actualmente no cuentan con soporte, pero en un futuro planeo retomarlos con un mayor conocimiento y mejorarlo como también continuar su desarrollo. 
 
+<div align="center">
+
 ### 🎮 Comandos más usados 
 |   Comando     | Descripción  | 
 | :-----------: | :----------: | 
@@ -31,6 +33,8 @@ Ambos proyectos fueron desarrollados con el objetivo de adquirir aprendizaje, ac
 |     `touch`   | *Crea un fichero* | 
 |     `cat`     | *Ver el contenido del fichero* | 
 |     `cp`      | *Copiar un fichero* | 
+
+</div>
 
 ### 🖲️ Alias Utiles 
 * __<ins>ggpush</ins>__: equivalente a `git push origin $(current_branch)` 
